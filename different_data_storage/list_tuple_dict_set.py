@@ -41,4 +41,4 @@ def different_data_type():
     print (s)
     print (s1 | s2, s1 & s2, s1 ^ s2)
 
-different_data_type()
+#different_data_type()

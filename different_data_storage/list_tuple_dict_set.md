@@ -100,5 +100,10 @@ s1 = {x for x in s if x <4 }
 
 ```
 
+### set VS list
+- Set is unordered. List is ordered. 
+- Set only has unique data. 
+- Set is quicker in seaching compared with list. 
+
 
 
