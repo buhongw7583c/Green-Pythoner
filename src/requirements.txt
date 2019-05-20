@@ -1,7 +1,0 @@
-azure-cognitiveservices-vision-face==0.3.0
-jsonpickle==1.1
-numpy==1.16.3
-opencv-python==4.1.0.25
-pylint==2.3.1
-pytest==4.3.1
-pytest-mock==1.10.2
